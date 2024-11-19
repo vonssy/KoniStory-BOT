@@ -1,5 +1,5 @@
 # Koni Story BOT
-Koni Story BOT `[Added Soon]`
+Koni Story BOT
 
 Register Here : [Koni Story](https://t.me/KoniStory_bot/app?startapp=TXpN3k91O)
 
@@ -8,6 +8,8 @@ Register Here : [Koni Story](https://t.me/KoniStory_bot/app?startapp=TXpN3k91O)
   - Auto Get Account Information
   - Auto Completed Tasks
   - Multi Account
+
+Note: query id may expired.
 
 ## Prasyarat
 
@@ -50,7 +52,7 @@ Pastikan Anda telah menginstal Python3.9 dan PIP.
 - **How to Get query_id and address:** Buka DevTools atau alat sejenis, lalu ikuti gambar dibawah ini.
 
 <div style="text-align: left;">
-  <h4><strong>DevTools Screenshot</strong></h4>
+  <h4><strong>DevTools Screenshoot</strong></h4>
   <img src="screenshot/ss.jpg" alt="Fetch Data" width="500"/>
 </div>
 
