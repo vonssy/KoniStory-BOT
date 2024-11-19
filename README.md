@@ -50,7 +50,7 @@ Pastikan Anda telah menginstal Python3.9 dan PIP.
 - **How to Get query_id and address:** Buka DevTools atau alat sejenis, lalu ikuti gambar dibawah ini.
 
 <div style="text-align: left;">
-  <h4><strong>Login Form</strong></h4>
+  <h4><strong>DevTools Screenshot</strong></h4>
   <img src="screenshot/ss.jpg" alt="Fetch Data" width="500"/>
 </div>
 
